@@ -158,14 +158,6 @@ Creating **1,800+ videos** and **100+ blog posts** to democratize data engineeri
 - [Writing to S3 Tables Managed Iceberg Tables Using DuckDB](https://medium.com/@shahsoumil519) — Interoperability demonstrations
 - [ElasticSearch Performance Tuning: 80X Faster Searches Case Study](https://www.linkedin.com/in/shah-soumil/) — 4.4s → 125ms optimization
 
-### 🎓 Academic Research Publications
-- **Arduino based Seismic Sensor for Earthquake Detection and Response**
-- **Silicon Membrane Thickness Monitoring System based on Optical Sensing**
-- **Simulation of PM2.5 Particulate Matter Pollution in US East Coast** — NASA CT Space Grant
-- **Balluino: High Altitude Balloon/Drone Based Air Pollution Monitoring System** — IEEE 2019
-- **Teaching Internet-of-Things Using E-Learning Laboratory**
-- **A-stick: Arduino-based Smart Blind Stick Navigator with Obstacle Notification**
-
 ---
 
 ## 🎓 Education & Continuous Learning
@@ -177,9 +169,6 @@ Creating **1,800+ videos** and **100+ blog posts** to democratize data engineeri
 | 🎓 **B.S.** | Electronic Engineering | K.J. Somaiya Institute | |
 
 **🏅 Honors:** Best Academic Achievement Award (4.0 GPA) • 3rd Place UB Hackathon • The Builder Award
-
-### 🌍 Languages
-**English** • **Hindi** • **Gujarati** • **Marathi**
 
 ---
 
