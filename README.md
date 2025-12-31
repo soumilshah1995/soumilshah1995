@@ -2,15 +2,16 @@
 
 # 👋 Hey, I'm Soumil Nitin Shah
 
-### **Lead Software Engineer** • **Big Data Architect** • **Tech Educator**
+### **Lead Software Engineer** • **Data Lakes Expert** • **Lakehouse Architect** • **Tech Educator**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Lakehouses+at+Scale+%F0%9F%8F%97%EF%B8%8F;Apache+Hudi+%7C+Iceberg+%7C+Spark+Expert;46K%2B+YouTube+Subscribers+%F0%9F%8E%AC;1%2C600%2B+Educational+Videos;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Data+Lakes+%26+Lakehouses+at+Scale+%F0%9F%8F%97%EF%B8%8F;Apache+Hudi+%7C+Iceberg+Expert;46K%2B+YouTube+Subscribers+%F0%9F%8E%AC;1%2C800%2B+Educational+Videos;432K%2B+Views+%7C+16.4K+Hours+Watch+Time;Open+Source+Contributor+%26+Educator" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-soumil/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoumilShah)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahsoumil519)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soumilshah.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumilshah1995)
+[![Website](https://img.shields.io/badge/🌐_soumilshah.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soumilshah.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_(10.9K+)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-soumil/)
+[![YouTube](https://img.shields.io/badge/YouTube_(46K+)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoumilShah)
+[![Medium](https://img.shields.io/badge/Medium_(5.2K_Views)-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahsoumil519)
+[![GitHub](https://img.shields.io/badge/GitHub_(300+_Repos)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumilshah1995)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsoumil@yahoo.co.in)
 
 </div>
 
@@ -18,28 +19,43 @@
 
 ## 🚀 About Me
 
-I'm a **Lead Software Engineer at Zeta Global** with **6+ years** of experience architecting and building **scalable data lakes and big data platforms** on AWS. I specialize in transforming complex data into actionable insights through high-performance, cost-efficient data workflows.
+I'm a **Lead Software Engineer at Zeta Global** and a recognized **Data Lakes & Lakehouse Architecture Expert** with **6+ years** of hands-on experience building production-grade data platforms. I specialize in **Apache Hudi**, **Apache Iceberg**, **AWS EMR**, and **Spark**, architecting solutions that process terabytes of data daily while achieving significant cost reductions.
 
-> *"Making sophisticated data engineering accessible to everyone"*
+> *"Making sophisticated data engineering accessible to everyone through code, content, and community"*
 
-🏗️ **Creator of [LakeBoost](https://github.com/soumilshah1995)** — A framework integrating Apache Hudi with AWS Glue ETL for large-scale data operations with significant cost reduction
+### 🏆 Key Achievements
 
-📝 **Featured on AWS Blog** — [How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables](https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/)
+🏗️ **Creator of [LakeBoost](https://github.com/soumilshah1995)** — Production framework integrating Apache Hudi with AWS Glue ETL, powering 50+ tables with 466 daily jobs (11,832 monthly), achieving 40% operational overhead reduction and 4-5x cost savings
+
+📝 **Featured on AWS Storage Blog** — [How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables](https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/)
+
+💰 **Delivered $200K+ Cost Savings** — Led Lakehouse adoption achieving ~50% cost reduction while processing 55TB+/month with sub-10-minute refresh latency
+
+⚡ **Performance Optimization Expert** — Reduced data processing from hours to minutes; achieved 80x faster searches through Elasticsearch optimization (4.4s → 125ms)
 
 ---
 
 ## 💼 What I Do at Zeta Global
 
 ```yaml
-Role: Lead Software Engineer – Big Data
-Focus: Lakehouse Platform Architecture
+Role: Lead Software Engineer – Big Data & Lakehouse Architecture
+Focus: Data Lakes, Multi-Tenant Platform Engineering, Cost Optimization
 
-Achievements:
-  - 🏢 Leading Lakehouse adoption across Zeta's data ecosystem
-  - 📊 Processing 60-120 GB/hour | 1.3+ TB daily | 53+ TB monthly
-  - 🗃️ Managing 10,000+ Iceberg tables in production
-  - ⚡ Reduced data processing time from hours to minutes
-  - 💰 Achieved 4-5x cost reduction through incremental ETL
+Production Impact:
+  - 🏢 Leading Lakehouse-as-a-Service adoption across enterprise ecosystem
+  - 📊 Processing 60-120 GB/hour | 1.3+ TB daily | 55+ TB monthly
+  - 🗃️ Managing 10,000+ Apache Iceberg tables in production
+  - ⚡ Reduced processing time: Hours → Minutes (4-5x cost reduction)
+  - 💰 Achieved $200K+ savings through incremental ETL & platform optimization
+  - 🚀 Delivered 2× faster ingestion for critical data pipelines
+  - 🔧 Built resilient data ingestion handling 2TB+ monthly with 800+ orchestrated jobs
+  
+Architecture Expertise:
+  - Data Lakes & Lakehouse platforms (Hudi, Iceberg, Delta Lake)
+  - Multi-tenant data ingestion systems at scale
+  - AWS-native architectures (EMR, Glue, Step Functions, S3)
+  - Cost-efficient incremental ETL pipelines
+  - Real-time analytics & streaming data processing
 ```
 
 ---
@@ -72,46 +88,65 @@ Achievements:
 
 ---
 
-## 📺 Content Creator & Educator
+## 📺 Content Creator & Educator — Making Data Engineering Accessible
 
 <div align="center">
 
-| Platform | Stats |
-|:--------:|:-----:|
-| 🎬 **YouTube** | **46,000+** Subscribers |
-| 📹 **Videos** | **1,600+** Tutorials |
-| 📂 **GitHub Repos** | **300+** Projects |
-| ✍️ **Blog Posts** | **200+** Articles |
-| 👁️ **Monthly Views** | **124K+** |
+### 🌟 **2025 Community Impact**
+
+| Platform | Reach & Engagement |
+|:--------:|:------------------:|
+| 🎬 **[YouTube](https://www.youtube.com/@SoumilShah)** | **46,188 Subscribers** \| **432.9K Views** \| **16.4K Hours Watch Time** |
+| 📹 **Videos Created** | **1,800+ Tutorials** (3.9M Impressions, 5.5% CTR) |
+| ✍️ **[Medium Blog](https://medium.com/@shahsoumil519)** | **422 Followers** \| **18.4K Presentations** \| **5.2K Views** \| **3K Reads** |
+| 📝 **Blog Posts** | **100+ Articles** on Data Engineering |
+| 💼 **[LinkedIn](https://www.linkedin.com/in/shah-soumil/)** | **10,922 Followers** \| **1,000+ Posts** |
+| 📂 **[GitHub](https://github.com/soumilshah1995)** | **300+ Open Source Repositories** |
+| 🌐 **[Website](https://soumilshah.com)** | Technical Resources & Portfolio |
+| ⏱️ **Avg View Duration** | **2:21 minutes** (High engagement) |
 
 </div>
 
-### 📚 Content I Create
-- 🏗️ **Data Lakehouse Architecture** — Hudi, Iceberg, Delta Lake
-- ☁️ **AWS Big Data Services** — Glue, EMR, S3, Step Functions
-- ⚡ **Real-time Data Pipelines** — Kafka, Kinesis, Streaming
-- 🔧 **Performance Optimization** — Query tuning, cost reduction
-- 🎓 **Hands-on Labs** — End-to-end project tutorials
+### 📚 Content I Create & Teach
+- 🏗️ **Data Lake & Lakehouse Architecture** — Apache Hudi, Iceberg, Delta Lake
+- ☁️ **AWS Big Data Engineering** — Glue, EMR, S3, Step Functions, Lambda
+- ⚡ **Real-time Data Pipelines** — Kafka, Kinesis, Streaming ETL
+- 🔧 **Performance & Cost Optimization** — Query tuning, incremental processing
+- 🎓 **End-to-End Production Projects** — From ingestion to analytics
+- 💾 **Data Management Best Practices** — Table formats, partitioning, clustering
+- 🐍 **PySpark & Python** — Distributed computing, big data processing
+
+### 🎯 Mission
+Creating **1,800+ videos** and **100+ blog posts** to democratize data engineering knowledge and help engineers worldwide build better data platforms.
 
 ---
 
-## 🏆 Featured Work & Publications
+## 🏆 Featured Work, Publications & Impact
 
-### 📰 AWS Storage Blog
+### 📰 AWS Storage Blog Feature
 **[How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables](https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/)**
-> Architecture for handling massive scale with 10,000+ Iceberg tables and 2TB daily processing
+> Deep dive into production architecture handling 10,000+ Iceberg tables, 55TB+ monthly processing, and multi-tenant data ingestion at scale with sub-10-minute refresh latency
 
-### 📝 Recent Medium Articles
-- [Experiment: S3 Tables with Incremental Loads up to 520GB](https://medium.com/@shahsoumil519)
-- [S3 Tables: Table Maintenance Flexibility with Spark](https://medium.com/@shahsoumil519)
-- [Stream Real-Time Data to AWS S3 Tables using Kafka](https://medium.com/@shahsoumil519)
-- [Writing to S3 Tables Managed Iceberg Tables Using DuckDB](https://medium.com/@shahsoumil519)
+### 📝 Recent Technical Articles on Medium
+- [Experiment: S3 Tables with Incremental Loads up to 520GB](https://medium.com/@shahsoumil519) — Performance benchmarking at scale
+- [S3 Tables: Table Maintenance Flexibility with Spark](https://medium.com/@shahsoumil519) — Advanced maintenance strategies
+- [Stream Real-Time Data to AWS S3 Tables using Kafka](https://medium.com/@shahsoumil519) — Production streaming patterns
+- [Writing to S3 Tables Managed Iceberg Tables Using DuckDB](https://medium.com/@shahsoumil519) — Interoperability demonstrations
+- [ElasticSearch Performance Tuning: 80X Faster Searches Case Study](https://www.linkedin.com/in/shah-soumil/) — 4.4s → 125ms optimization
 
-### 🔬 Research Publications
-- *Arduino based Seismic Sensor for Earthquake Detection*
-- *Silicon Membrane Thickness Monitoring System based on Optical Sensing*
-- *Simulation of PM2.5 Particulate Matter Pollution* — NASA CT Space Grant
-- *A-stick: Arduino-based Smart Blind Stick Navigator*
+### 🎓 Academic Research Publications
+- **Arduino based Seismic Sensor for Earthquake Detection and Response**
+- **Silicon Membrane Thickness Monitoring System based on Optical Sensing**
+- **Simulation of PM2.5 Particulate Matter Pollution in US East Coast** — NASA CT Space Grant
+- **Balluino: High Altitude Balloon/Drone Based Air Pollution Monitoring System** — IEEE 2019
+- **Teaching Internet-of-Things Using E-Learning Laboratory**
+- **A-stick: Arduino-based Smart Blind Stick Navigator with Obstacle Notification**
+
+### 🏅 Recognition & Awards
+- **Best Academic Achievement Award 2017-18** — 4.0 GPA, University of Bridgeport
+- **3rd Place - University of Bridgeport Hackathon**
+- **The Builder Award** — Engineering Person of the Month
+- **AWS Blog Featured Engineer** — Multi-tenant data architecture showcase
 
 ---
 
@@ -128,15 +163,25 @@ Achievements:
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Continuous Learning
 
-| Degree | Field | Institution |
-|--------|-------|-------------|
-| 🎓 **M.S.** | Electrical Engineering | University of Bridgeport |
-| 🎓 **M.S.** | Computer Engineering | University of Bridgeport |
-| 🎓 **B.S.** | Electronic Engineering | K.J. Somaiya Institute |
+| Degree | Field | Institution | Achievement |
+|--------|-------|-------------|-------------|
+| 🎓 **M.S.** | Electrical Engineering | University of Bridgeport | **4.0 GPA** |
+| 🎓 **M.S.** | Computer Engineering | University of Bridgeport | **Best Academic Award** |
+| 🎓 **B.S.** | Electronic Engineering | K.J. Somaiya Institute | |
 
-**🏅 Awards:** Best Academic Achievement Award (4.0 GPA) • 3rd Place UB Hackathon • The Builder Award
+### 📜 Professional Certifications
+- ✅ The Complete Python 3 Course: Beginner to Advanced
+- ✅ JavaScript Essential Training
+- ✅ jQuery Essential Training
+- ✅ Learning Angular
+- ✅ Basic Fundamentals of C#
+
+**🏅 Honors:** Best Academic Achievement Award (4.0 GPA) • 3rd Place UB Hackathon • The Builder Award — Engineering Person of Month
+
+### 🌍 Languages
+**English** • **Hindi** • **Gujarati** • **Marathi**
 
 ---
 
@@ -144,20 +189,32 @@ Achievements:
 
 <div align="center">
 
-### 💬 I'm Happy to Discuss
+### 💬 I'm Available to Discuss
 
-`Lakehouse Architecture` • `Apache Hudi & Iceberg` • `AWS Data Platforms` • `Spark Optimization`
-`Multi-tenant Systems` • `Cost Optimization` • `Content Creation` • `Tech Speaking`
+`Data Lakes & Lakehouses` • `Apache Hudi & Iceberg` • `AWS Data Platforms` • `Spark Optimization`
+`Multi-tenant Architecture` • `Cost Optimization` • `Content Creation` • `Technical Speaking`
+`Open Source Collaboration` • `Mentorship & Career Guidance`
 
-### 🎤 Speaking & Collaboration
+### 🎤 Open to Speaking & Collaboration Opportunities
 
-I'm open to **speaking opportunities**, **technical collaborations**, and **content partnerships** around data engineering, lakehouse architecture, and AWS big data technologies.
+I'm actively seeking **speaking engagements**, **technical collaborations**, **content partnerships**, and **consulting opportunities** around:
+- Data Engineering & Lakehouse Architecture
+- AWS Big Data Technologies & Cost Optimization
+- Building Production Data Platforms at Scale
+- Content Creation & Developer Education
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsoumil@yahoo.co.in)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-soumil/)
-[![YouTube](https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoumilShah)
+### 📞 Get in Touch
+
+[![Email](https://img.shields.io/badge/📧_shahsoumil@yahoo.co.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsoumil@yahoo.co.in)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-soumil/)
+[![YouTube](https://img.shields.io/badge/🎥_Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoumilShah)
+[![Medium](https://img.shields.io/badge/✍️_Follow_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahsoumil519)
+[![Website](https://img.shields.io/badge/🌐_Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soumilshah.com)
+[![GitHub](https://img.shields.io/badge/💻_Explore_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumilshah1995)
+
+**Location:** New York City Metropolitan Area | **Phone:** +1 (646) 204-5957
 
 </div>
 
@@ -165,15 +222,40 @@ I'm open to **speaking opportunities**, **technical collaborations**, and **cont
 
 <div align="center">
 
-### ⚡ Fun Fact
-*I've created **1,600+ videos** teaching big data technologies — that's like a new tutorial every other day for years!*
+### ⚡ Fun Facts About My Journey
+- 📹 Created **1,800+ educational videos** in a single year — that's averaging **5 videos every single day**!
+- 🎬 Accumulated **432.9K views** and **16.4K hours** of watch time helping engineers worldwide
+- 📝 Authored **100+ technical blog posts** reaching **18.4K presentations** and **5.2K views**
+- 💻 Built **300+ GitHub repositories** with production-ready code and tutorials
+- 🌍 Teaching data engineering in **4 languages**: English, Hindi, Gujarati, and Marathi
+- 🏆 Turned data processing from **hours to minutes** and saved companies **$200K+** in cloud costs
+- 🚀 Managing **10,000+ Iceberg tables** processing **55TB+ monthly** in production
+- 🎯 Created **LakeBoost** framework now running **466 jobs daily** (11,832/month) in production
+
+### 📈 By the Numbers
+```
+432.9K     YouTube Views
+16.4K      Hours Watch Time
+46,188     YouTube Subscribers
+1,800+     Videos Published
+10,922     LinkedIn Followers
+5.2K       Medium Blog Views
+300+       GitHub Repositories
+100+       Technical Blog Posts
+55TB       Data Processed Monthly
+$200K+     Cost Savings Delivered
+```
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soumilshah1995&color=blueviolet&style=for-the-badge)
 
-**Made with ❤️ by Soumil Shah**
+**Made with ❤️ and countless hours of code by Soumil Shah**
 
-*Last updated: 2025*
+*"Building data platforms by day, creating educational content by night, making data engineering accessible 24/7"*
+
+---
+
+*Last updated: January 2025*
 
 </div>
