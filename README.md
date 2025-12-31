@@ -214,7 +214,7 @@ I'm actively seeking **speaking engagements**, **technical collaborations**, **c
 [![Website](https://img.shields.io/badge/🌐_Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soumilshah.com)
 [![GitHub](https://img.shields.io/badge/💻_Explore_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumilshah1995)
 
-**Location:** New York City Metropolitan Area | **Phone:** +1 (646) 204-5957
+**Location:** New York City Metropolitan Area
 
 </div>
 
