@@ -37,26 +37,50 @@ I'm a **Lead Software Engineer at Zeta Global** and a recognized **Data Lakes & 
 
 ## 💼 What I Do at Zeta Global
 
-```yaml
-Role: Lead Software Engineer – Big Data & Lakehouse Architecture
-Focus: Data Lakes, Multi-Tenant Platform Engineering, Cost Optimization
+<table>
+<tr>
+<td width="50%">
 
-Production Impact:
-  - 🏢 Leading Lakehouse-as-a-Service adoption across enterprise ecosystem
-  - 📊 Processing 60-120 GB/hour | 1.3+ TB daily | 55+ TB monthly
-  - 🗃️ Managing 10,000+ Apache Iceberg tables in production
-  - ⚡ Reduced processing time: Hours → Minutes (4-5x cost reduction)
-  - 💰 Achieved $200K+ savings through incremental ETL & platform optimization
-  - 🚀 Delivered 2× faster ingestion for critical data pipelines
-  - 🔧 Built resilient data ingestion handling 2TB+ monthly with 800+ orchestrated jobs
-  
-Architecture Expertise:
-  - Data Lakes & Lakehouse platforms (Hudi, Iceberg, Delta Lake)
-  - Multi-tenant data ingestion systems at scale
-  - AWS-native architectures (EMR, Glue, Step Functions, S3)
-  - Cost-efficient incremental ETL pipelines
-  - Real-time analytics & streaming data processing
+### 🎯 Role & Impact
+```typescript
+interface Engineer {
+  role: "Lead Software Engineer";
+  focus: ["Data Lakes", "Lakehouse", "Platform"];
+  stack: ["Hudi", "Iceberg", "Spark", "AWS"];
+}
 ```
+
+**Leading enterprise-scale data transformation:**
+- 🏗️ Architecting Lakehouse-as-a-Service platform
+- 📊 Processing **60-120 GB/hour** → **55TB+/month**
+- 🗃️ Managing **10,000+ Iceberg tables** in production
+- ⚡ **Hours → Minutes** processing (4-5x cost reduction)
+- 💰 **$200K+ savings** through platform optimization
+
+</td>
+<td width="50%">
+
+### 🚀 Technical Achievements
+```python
+metrics = {
+    "data_volume": "1.3TB daily | 55TB monthly",
+    "table_count": "10,000+ Iceberg tables",
+    "job_throughput": "466 daily | 11,832 monthly",
+    "cost_reduction": "~50% | $200K+ saved",
+    "performance": "2× faster ingestion",
+    "latency": "<10 min refresh"
+}
+```
+
+**Core expertise:**
+- Multi-tenant data ingestion at scale
+- Incremental ETL pipeline architecture  
+- Real-time analytics & streaming processing
+- Cost-efficient cloud-native solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,25 +166,6 @@ Creating **1,800+ videos** and **100+ blog posts** to democratize data engineeri
 - **Teaching Internet-of-Things Using E-Learning Laboratory**
 - **A-stick: Arduino-based Smart Blind Stick Navigator with Obstacle Notification**
 
-### 🏅 Recognition & Awards
-- **Best Academic Achievement Award 2017-18** — 4.0 GPA, University of Bridgeport
-- **3rd Place - University of Bridgeport Hackathon**
-- **The Builder Award** — Engineering Person of the Month
-- **AWS Blog Featured Engineer** — Multi-tenant data architecture showcase
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soumilshah1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumilshah1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumilshah1995&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
 ---
 
 ## 🎓 Education & Continuous Learning
@@ -171,14 +176,7 @@ Creating **1,800+ videos** and **100+ blog posts** to democratize data engineeri
 | 🎓 **M.S.** | Computer Engineering | University of Bridgeport | **Best Academic Award** |
 | 🎓 **B.S.** | Electronic Engineering | K.J. Somaiya Institute | |
 
-### 📜 Professional Certifications
-- ✅ The Complete Python 3 Course: Beginner to Advanced
-- ✅ JavaScript Essential Training
-- ✅ jQuery Essential Training
-- ✅ Learning Angular
-- ✅ Basic Fundamentals of C#
-
-**🏅 Honors:** Best Academic Achievement Award (4.0 GPA) • 3rd Place UB Hackathon • The Builder Award — Engineering Person of Month
+**🏅 Honors:** Best Academic Achievement Award (4.0 GPA) • 3rd Place UB Hackathon • The Builder Award
 
 ### 🌍 Languages
 **English** • **Hindi** • **Gujarati** • **Marathi**
